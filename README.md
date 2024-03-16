@@ -1,4 +1,4 @@
-# MOSAIC AI ChatBot
+# MOSAIC AI ChatBot (This is not the original reprository of the project as its private, but can be provided if requested along side deployed version of the application)
 
 ## Introduction
 The MOSAIC AI ChatBot is developed by the SFU Blueprint Team to enhance the engagement and satisfaction of users interacting with MOSAIC's services. By leveraging advanced AI and machine learning technologies, this chatbot aims to streamline the dissemination of information and improve user experience on the MOSAIC website, with a focus on accessibility and multi-language support.
@@ -102,12 +102,8 @@ Provide instructions on how to use the chatbot, including any available commands
 - Multi-language processing capabilities.
 - Integration with MOSAIC's database for real-time information updates.
 
-
-## Team
-- **Product Manager and Lead:** 
-- **Designers:**
-- **Developers:** 
-- **SFU Blueprint Exec Team:** 
+## The Figma prototype of this application
+https://www.figma.com/file/RuFiaNVxkVBbae99GMtpEg/INITIAL-RESEARCH_MOSAIC?type=design&node-id=0%3A1&mode=design&t=pt5c6QObU4uWJCgN-1
 
 ## Acknowledgments
 Special thanks to all team members, MOSAIC executives, and the SFU Blueprint team for their dedication and hard work in bringing this project to life.
