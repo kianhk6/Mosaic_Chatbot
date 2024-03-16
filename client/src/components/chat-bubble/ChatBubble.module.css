@@ -1,0 +1,27 @@
+.bubble {
+  margin: 4px 10px;
+  padding: 10px;
+  border-radius: 5px;
+  max-width: 80%;
+  word-wrap: break-word;
+  color: white;
+  font-family: "Arial", sans-serif;
+  overflow: hidden;
+  word-break: break-word;
+}
+
+.userMessage {
+  align-self: flex-end;
+  background-color: #979797; /* Green for the user messages */
+  margin: 4px 2px;
+}
+
+.botMessage {
+  align-self: flex-start;
+  background-color: #87c440; /* Blue for the bot's messages */
+}
+
+.messageText {
+  display: inline-block;
+  vertical-align: top;
+}
